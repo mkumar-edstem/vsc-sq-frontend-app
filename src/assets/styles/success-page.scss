@@ -1,0 +1,60 @@
+.sp-wrap{
+    margin: auto;
+    padding-top: 100px;
+}
+.sp-container {
+    padding-top: 0px;
+    padding: 30px 10px 20px 30px;
+    display: flex;
+    margin: auto;
+    text-align: left;
+    width: 100%;
+    border-radius: 12px;
+    background-color: #f7f7f7;
+.sp-icons{
+    display: grid;
+    justify-items: center;
+}
+.sp-content{
+    font-family: 'Gotham Regular';
+    max-width: 550px;
+    margin: 10px 20px 10px 20px;
+}
+.sp-btn1-active{
+    background-color: #d71638;
+    font-family: 'Gotham Medium';
+    border: none;
+    font-size: 13px;
+    font-family: 'Gotham Medium';
+    margin: 10px 20px 10px 20px;
+    border: none;
+    color: white;
+    width: 100%;
+    margin: 10px 20px 10px 20px;
+    &:hover{
+        background-color: #c01d3b;
+    }
+}
+.sp-btn2-active{
+    background-color: #ffffff;
+    font-family: 'Gotham Medium';
+    font-size: 13px;
+    color: #0071bc;
+    margin-top: 10px;
+}
+.sp-btns{
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+}
+.sp-head{
+    font-family: 'Gotham Bold';
+    font-size: 25px;
+    padding: 20px;
+    align-items: flex-start;
+}
+}
+.span-text{
+    font-family: 'Gotham Medium';
+    color: #0E3E71;
+}

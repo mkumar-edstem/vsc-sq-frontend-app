@@ -1,0 +1,119 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    .list-items{
+       display: flex;
+       justify-content: flex-end;
+    }
+    .logo{
+        padding: 4px 14px 6px 4px; 
+        font-family: "Gotham Black";
+        color: #D71638;
+        font-size: 22px;
+        width: 50px;
+        height: 45px;
+        border-right: 2px solid #ECEDEE;
+    }
+    .head-text{
+        margin-left: 20px;
+        font-size: 20px;
+    }
+    .tabs{
+        display: grid;
+        justify-items: center;   
+        height: 70px;
+        justify-content: center;
+        border-left: 1px solid #ECEDEE;
+        width: auto;
+        text-align: center;
+         border-bottom: 1px solid #E6E7E8;
+        .MuiTypography-body1   {
+            font-family: 'Gotham regular';
+            font-size: 13px;  
+            color: #000000;
+            font-weight: bolder;
+            opacity: 0.8;
+        }  
+        .MuiListItemIcon-root {
+            color: #000000;
+            display: flex;
+            flex-shrink: 0;
+            justify-content: center;
+        }
+
+    }
+    .notification-icon{
+        display: grid;
+        justify-items: center;   
+        height: 70px;
+        justify-content: center;
+        border-left: 1px solid #ECEDEE;
+        width: 65px;
+        text-align: center;
+         border-bottom: 1px solid #E6E7E8;
+        .MuiTypography-body1   {
+            font-family: 'Gotham regular';
+            font-size: 13px;  
+            color: #000000;
+            font-weight: bolder;
+            opacity: 0.8;
+        }  
+        .MuiListItemIcon-root {
+            color: #000000;
+            display: flex;
+            flex-shrink: 0;
+            justify-content: center;
+        }
+
+    }
+    .selected {
+        display: grid;
+        justify-items: center;
+        color: #003369;
+        border-left: 1px solid #ECEDEE;
+        height: 70px;
+        width: auto;
+        border-bottom: 2px solid #D71638;
+        .MuiTypography-body1   {
+            font-family: 'Gotham regular';
+            font-size: 13px;  
+            color: #003369;
+            font-weight: bolder;
+            opacity: 0.8;
+    
+        }
+        .MuiListItemIcon-root {
+            color: #003369;
+            display: flex;
+            flex-shrink: 0;
+            justify-content: center;
+        }
+    }
+    .user{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: left;
+        margin-left: 12px;
+        .dp{
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            margin-right:12px ;
+        }
+        .user-text{
+            font-family: 'Gotham Medium';
+            font-size: 16px;
+            display: grid;
+            .sub-text{
+                font-family: 'Gotham Light';   
+                font-size: 12px;
+                text-align: left;
+                color: #B4B4B6;
+                margin-top: 5px;
+            }
+        }
+    }
+}
+

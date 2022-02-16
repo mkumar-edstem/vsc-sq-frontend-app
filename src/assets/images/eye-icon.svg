@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="72">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-3{stroke:#003369;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="icon" transform="translate(-136 -16)">
+        <path id="Rectangle_217" data-name="Rectangle 217" class="cls-1" transform="translate(136 16)" d="M0 0h72v72H0z"/>
+        <g id="icon_-_overview" data-name="icon - overview" transform="translate(120 -80)">
+            <g id="Ellipse_179" data-name="Ellipse 179" transform="translate(16 96)" style="stroke:#003369;stroke-width:3px;fill:none">
+                <circle cx="36" cy="36" r="36" style="stroke:none"/>
+                <circle class="cls-1" cx="36" cy="36" r="34.5"/>
+            </g>
+            <path id="Path_8" data-name="Path 8" class="cls-3" d="M36 16.492c-.689-7.547-8.475-13.5-18-13.5S.689 8.945 0 16.492" transform="translate(34 115.508)"/>
+            <path id="Path_9" data-name="Path 9" class="cls-3" d="M0 8c.689 7.546 8.475 13.5 18 13.5S35.311 15.545 36 8" transform="translate(34 124.001)"/>
+            <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-3" cx="6" cy="6" r="6" transform="translate(46 126)"/>
+        </g>
+        <g id="check" transform="translate(3 -7)">
+            <circle id="Ellipse_174" data-name="Ellipse 174" cx="12" cy="12" r="12" transform="translate(186 71)" style="fill:#51b848"/>
+            <path id="check-2" data-name="check" d="m2 9 3 3 7-6" transform="translate(191 74.002)" style="stroke:#fff;stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+        </g>
+    </g>
+</svg>
